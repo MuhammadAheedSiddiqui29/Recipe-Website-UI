@@ -149,7 +149,7 @@ footer{
     cursor: pointer;
     display: block;
 }
-/* @media only screen and (min-width: 768px){
+@media only screen and (min-width: 768px){
     .menu-icon{
         display: none;
     }
@@ -164,4 +164,4 @@ footer{
     .hero p{
         font-size: 15px;
     }
-} */
+}
